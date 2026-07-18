@@ -1,0 +1,8 @@
+{
+  "item.gerandrones.remote_control": "Remote Control",
+  "item.gerandrones.geran_2_drone": "Geran-2 Drone",
+  "item.gerandrones.geran_5_drone": "Geran-5 Drone",
+  "entity.gerandrones.geran_2_drone": "Geran-2",
+  "entity.gerandrones.geran_5_drone": "Geran-5",
+  "itemGroup.gerandrones": "Geran Drones"
+}
