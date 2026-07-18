@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "RFR", " P "],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "F": { "item": "minecraft:fire_charge" },
+    "P": { "item": "minecraft:phantom_membrane" }
+  },
+  "result": { "item": "gerandrones:geran_2_drone" }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SIS", "RFR", " P "],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "F": { "item": "minecraft:fire_charge" },
+    "P": { "item": "minecraft:phantom_membrane" },
+    "S": { "item": "minecraft:slime_ball" }
+  },
+  "result": { "item": "gerandrones:geran_5_drone" }
+}

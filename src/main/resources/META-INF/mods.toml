@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="gerandrones"
+version="${file.jarVersion}"
+displayName="Geran Drones"
+description='''Adds Geran-2 and Geran-5 first-person controllable drones.'''
+[[dependencies.gerandrones]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.gerandrones]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
